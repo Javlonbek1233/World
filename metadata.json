@@ -1,0 +1,6 @@
+{
+  "name": "WorldExplorer",
+  "description": "Dunyo Davlatlari Ma'lumotlar Platformasi - O'quv qo'llanmasi va API Explorer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
